@@ -1,2 +1,6 @@
-# PWL_Husnul-Hotimah
-TI-2A
+# PEMROGRAMAN WEB LANJUT
+
+* NAMA  : Husnul-Hotimah
+* NIM   : 1841720014
+* KELAS : TI-2A
+* ABSEN : 13
